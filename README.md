@@ -106,7 +106,7 @@ Hệ thống hỗ trợ đầy đủ các chức năng:
 
 # 🗄️ Thiết kế cơ sở dữ liệu
 
-![URL](docs/url.png)
+!(docs/erd.png)
 
 ---
 
