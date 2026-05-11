@@ -182,25 +182,26 @@ npm start
 
 ## 👤 Trang khách hàng
 
-- Trang chủ
-- Danh sách sản phẩm
-- Chi tiết sản phẩm
-- Giỏ hàng
-- Thanh toán
-- Theo dõi đơn hàng
+- ![Trang chủ](docs/trangchu.png)
+- ![Danh sách sản phẩm](docs/danhsachsanpham.png)
+- ![Chi tiết sản phẩm](docs/chitietsanpham.png)
+- ![Giỏ hàng](docs/giohang.png)
+- ![Thanh toán](docs/thanhtoan.png)
+- ![Theo dõi đơn hàng](docs/theodoidonhang.png)
 
 ---
 
 ## 👨💼 Trang Admin
 
-- Dashboard
-- Quản lý sản phẩm
-- Quản lý đơn hàng
-- Quản lý người dùng
+- ![Dashboard](docs/Dashboard.png)
+- ![Quản lý sản phẩm](docs/quanlysanpham.png)
+- ![Quản lý đơn hàng](docs/quanlydonhang.png)
+- ![Sản phẩm bán chạy](docs/sanphambanchay.png)
 
 ---
 
 
 # ⭐ Ghi chú
 
-Dự án được xây dựng phục vụ cho:Đồ án tốt nghiệp
+Dự án được xây dựng phục vụ cho: Đồ án tốt nghiệp
+Thành viên tham dự: Tống Quang Trung, Vũ Hải Anh, Trần Quốc Khánh
