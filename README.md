@@ -151,12 +151,6 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-### Backend chạy tại
-
-```bash
-http://localhost:8080
-```
-
 ---
 
 ## 3️⃣ Chạy Frontend User
@@ -165,7 +159,6 @@ http://localhost:8080
 cd client-shop
 npm start
 ```
-
 
 ---
 
