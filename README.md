@@ -203,5 +203,13 @@ npm start
 
 # ⭐ Ghi chú
 
-Dự án được xây dựng phục vụ cho: Đồ án tốt nghiệp
-Thành viên tham dự: Tống Quang Trung, Vũ Hải Anh, Trần Quốc Khánh
+Dự án được xây dựng phục vụ cho: 
+- Đồ án tốt nghiệp
+- Học tập và nghiên cứu
+- Portfolio xin việc Fresher / Intern Java Backend
+
+# 👨‍💻 Tác giả
+
+## Tong Quang Trung - Vu Hai Anh - Tran Quoc Khanh
+
+
